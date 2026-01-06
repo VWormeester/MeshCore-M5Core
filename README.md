@@ -2,7 +2,7 @@
 
 Enhanced TFT user interface for MeshCore mesh networking firmware, optimized for M5Stack Cardputer-Adv.
 
-![MeshCore-Cardputer-ADV](docs/images/title.jpg)
+![MeshCore-Cardputer-ADV](docs/images/title.JPG)
 *Custom TFT UI for M5Stack Cardputer-Adv with DX-LR30-900M22SP LoRa module*
 
 ##  Features
