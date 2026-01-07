@@ -1,5 +1,3 @@
-# MeshCore-Cardputer-ADV
-
 # 🔥 **MeshCore-Cardputer-ADV** - **NOW ON M5Burner!** 🔥
 
 **Search on M5Burner:**
