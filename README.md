@@ -67,7 +67,7 @@ For advanced users - requires custom wiring:
 **Important**: First-time configuration requires the MeshCore mobile app:
 1. Flash firmware to Cardputer-Adv
 2. Download MeshCore app on smartphone
-3. Connect via Bluetooth
+3. Connect via Bluetooth (use the code on the top right corner of the screen for pairing)
 4. Configure node name, region, network keys, channels
 
 ## 📁 Pre-compiled Binaries
