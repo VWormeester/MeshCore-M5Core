@@ -3,7 +3,7 @@
 Enhanced TFT user interface for MeshCore mesh networking firmware, optimized for M5Stack M5Core with Faces add-on.
 All underneath is TODO 
 
-![MeshCore-M5Core](docs/images/m5stack faces.png)
+![MeshCore-M5Core](docs/images/m5stack_faces.png)
 
 ## 📦 Installation via M5Burner
 
