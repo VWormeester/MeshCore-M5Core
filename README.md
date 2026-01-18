@@ -5,7 +5,7 @@
 Enhanced TFT user interface for MeshCore mesh networking firmware, optimized for M5Stack M5Core with Faces add-on.
 All underneath is TODO 
 
-![MeshCore-Cardputer-ADV](docs/images/title.JPG)
+![MeshCore-Cardputer-ADV](docs/images/m5stack faces.png)
 
 ## 📦 Installation via M5Burner
 
@@ -118,4 +118,4 @@ Independent UI modification of MeshCore. For core networking questions, refer to
 
 ---
 
-**Version**: 1.0.0 | **Last Updated**: January 12, 2026
+**Version**: 1.0.0 | **Last Updated**: January 18, 2026
