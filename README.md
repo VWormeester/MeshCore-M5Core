@@ -1,11 +1,9 @@
-# 🔥 MeshCore-M5Stack 🔥
-
-[![Buy Stachu a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=Stachu&button_colour=ff8800&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00)](https://buymeacoffee.com/Stachu)
+# MeshCore-M5Stack Faces
 
 Enhanced TFT user interface for MeshCore mesh networking firmware, optimized for M5Stack M5Core with Faces add-on.
 All underneath is TODO 
 
-![MeshCore-Cardputer-ADV](docs/images/m5stack faces.png)
+![MeshCore-M5Core](docs/images/m5stack faces.png)
 
 ## 📦 Installation via M5Burner
 
